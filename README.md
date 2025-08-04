@@ -1,4 +1,4 @@
-# This project is a sample application built with Spring Boot, highlighting the following concepts. It represents the backend part of the question-and-answer full-stack example.
+## This project is a sample application built with Spring Boot, highlighting the following concepts. It represents the backend part of the question-and-answer full-stack example.
 - RESTful api design
 - GET, POST, PUT, DELETE endpoints
 - Custom Exception Handling
