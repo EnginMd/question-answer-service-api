@@ -29,6 +29,8 @@ While some features are accessible without logging in, others require authentica
 - **Comment**: Stores comments written under posts.
 
 - **RefreshToken**: Stores refresh tokens associated with users.
+  
+The database connection settings and token expiration parameters are configured in the application.properties file.
 
 ### Request/Response Examples for Some Endpoints
 
